@@ -1,5 +1,7 @@
 # Flutter Travel App Landing Page UI
 
+![banner](travel-app-ui.png)
+
 Design Credits: Arya Wijaya Kusuma
 [View on Dribbble](https://dribbble.com/shots/15793197-Travel-App)
 
